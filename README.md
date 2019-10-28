@@ -11,4 +11,4 @@ Includes:
 * Chrome (latest)
 * ChromeDriver 74
 
-Available on [Docker Hub](https://cloud.docker.com/u/miqindia/repository/docker/miqindia/automation-testing).
+Available on [Docker Hub](https://hub.docker.com/r/miqindia/automation-testing).
